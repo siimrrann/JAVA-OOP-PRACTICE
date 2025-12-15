@@ -6,6 +6,7 @@ import java.util.Scanner;
 class Tasks{
     String task;
     int id;
+    
     Tasks(int id, String task){
         this.task = task;
         this.id = id;
